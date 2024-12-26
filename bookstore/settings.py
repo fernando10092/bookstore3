@@ -164,6 +164,6 @@ INTERNAL_IPS = [
 #DEBUG = int(os.environ.get("DEBUG", default=0))
 
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'bookstore-app-api-738d721992b2.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'ebacbookstoreapi.herokuapp.com']
 
 STATIC_ROOT = BASE_DIR / "staticfiles"
